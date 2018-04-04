@@ -1,0 +1,19 @@
+1. What are the different methods to call a function in R?
+do.call()
+eval(call())
+call(name, …)
+is.call(x)
+as.call(x)
+
+2. The lazy evaluation of a function means, the argument is evaluated only if it is used inside the body of the function. Say True or False.
+The environment is created when the function is called for the first time. True.
+
+3. State True or False:
+a. Insights driven from descriptive analytics is not meaningful.
+False, they are meaningful to diagnose the reasons behind sharp slopes.
+b. The number of values in each Elements of a list, should be equal.
+False, doesnt matter.
+c. The datasets are not stored in memory of the computer using R.
+yes
+d. Data frames and matrices are two dimensional however the array is multidimensional.
+True
